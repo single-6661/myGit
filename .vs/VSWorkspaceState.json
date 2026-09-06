@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\fronted",
+    "\\fronted\\public",
+    "\\fronted\\src",
+    "\\fronted\\src\\assets",
+    "\\fronted\\src\\components",
+    "\\fronted\\src\\router"
+  ],
+  "SelectedNode": "\\fronted\\src\\components\\login.vue",
+  "PreviewInSolutionExplorer": false
+}
